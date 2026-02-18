@@ -2059,7 +2059,7 @@
             "value": "onlyPixel"
           },
           {
-            "type": "SIMPLE_TABLE",
+            "type": "LIST",
             "key": "pixels",
             "list": [
               {
@@ -2085,7 +2085,7 @@
             ]
           },
           {
-            "type": "SIMPLE_TABLE",
+            "type": "LIST",
             "key": "useEcommerceData",
             "list": [
               {
@@ -2167,7 +2167,7 @@
             "value": "onlyPixel"
           },
           {
-            "type": "SIMPLE_TABLE",
+            "type": "LIST",
             "key": "pixels",
             "list": [
               {
@@ -2193,7 +2193,7 @@
             ]
           },
           {
-            "type": "SIMPLE_TABLE",
+            "type": "LIST",
             "key": "useEcommerceData",
             "list": [
               {
@@ -2270,7 +2270,7 @@
             "value": "onlyPixel"
           },
           {
-            "type": "SIMPLE_TABLE",
+            "type": "LIST",
             "key": "pixels",
             "list": [
               {
@@ -2296,7 +2296,7 @@
             ]
           },
           {
-            "type": "SIMPLE_TABLE",
+            "type": "LIST",
             "key": "useEcommerceData",
             "list": [
               {
@@ -2373,7 +2373,7 @@
             "value": "onlyPixel"
           },
           {
-            "type": "SIMPLE_TABLE",
+            "type": "LIST",
             "key": "pixels",
             "list": [
               {
@@ -2399,7 +2399,7 @@
             ]
           },
           {
-            "type": "SIMPLE_TABLE",
+            "type": "LIST",
             "key": "useEcommerceData",
             "list": [
               {
@@ -2476,7 +2476,7 @@
             "value": "onlyPixel"
           },
           {
-            "type": "SIMPLE_TABLE",
+            "type": "LIST",
             "key": "pixels",
             "list": [
               {
@@ -2502,7 +2502,7 @@
             ]
           },
           {
-            "type": "SIMPLE_TABLE",
+            "type": "LIST",
             "key": "useEcommerceData",
             "list": [
               {
@@ -2584,7 +2584,7 @@
             "value": "onlyPixel"
           },
           {
-            "type": "SIMPLE_TABLE",
+            "type": "LIST",
             "key": "pixels",
             "list": [
               {
@@ -2610,7 +2610,7 @@
             ]
           },
           {
-            "type": "SIMPLE_TABLE",
+            "type": "LIST",
             "key": "useEcommerceData",
             "list": [
               {
@@ -2692,7 +2692,7 @@
             "value": "onlyPixel"
           },
           {
-            "type": "SIMPLE_TABLE",
+            "type": "LIST",
             "key": "pixels",
             "list": [
               {
@@ -2718,7 +2718,7 @@
             ]
           },
           {
-            "type": "SIMPLE_TABLE",
+            "type": "LIST",
             "key": "useEcommerceData",
             "list": [
               {
@@ -2800,7 +2800,7 @@
             "value": "onlyPixel"
           },
           {
-            "type": "SIMPLE_TABLE",
+            "type": "LIST",
             "key": "pixels",
             "list": [
               {
@@ -2826,7 +2826,7 @@
             ]
           },
           {
-            "type": "SIMPLE_TABLE",
+            "type": "LIST",
             "key": "useEcommerceData",
             "list": [
               {
